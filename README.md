@@ -1,5 +1,4 @@
 # Detecting-Fraud-in-Credit-Card-Transaction-Data
 
-
-Very very common and important scenerio in the world where payment being done and credit card being used every where, and fraudulent transaction are one of those transaction occur now and then, so as per statistics  million of dollor have lost in the financial world, just because of non accurate fraud detection beacause model would not detect the fraud.
+As online transactions continue to dominate the global commerce landscape, the risk of credit card fraud has become a critical concern for financial institutions and consumers alike. Detecting fraudulent activities in real-time is paramount to prevent monetary losses and uphold customer trust. The aim of this project is to develop an advanced and efficient credit card fraud detection system that can swiftly identify and flag potentially fraudulent transactions, ensuring prompt intervention to mitigate financial risks for both credit card users and issuing organizations.
 
